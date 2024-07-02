@@ -3,4 +3,8 @@ https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=1Z8W5N
 
 https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=x6znKlJ0xK&launcher_id=jGHBHlcOq1
 
+https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=1Z8W5NHUQb&launcher_id=jGHBHlcOq1
 
+https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=64kMb5iAWu&launcher_id=jGHBHlcOq1
+
+https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=osvnlOc0S8&launcher_id=jGHBHlcOq1
